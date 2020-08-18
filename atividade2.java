@@ -72,7 +72,7 @@ import java.awt.event.ActionEvent;
 		        
 		        for(int x = i; x <= j; x++){
 		            if (x > i && x < j){
-		                value =  value + "," +x ;
+		                value =  value + ", " +x ;
 		                
 		            }
 		            
